@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as s}from"./index-865ba819.js";const c="/mall_help/assets/sy-79dc1a8a.jpg",a={},n=s("h3",null," 欢迎来到电子商城帮助信息后台 ",-1),_=s("img",{src:c,style:{width:"90%"}},null,-1),l=[n,_];function r(d,i,p,m,h,u){return t(),o("div",null,l)}const $=e(a,[["render",r]]);export{$ as default};

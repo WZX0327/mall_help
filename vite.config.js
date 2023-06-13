@@ -32,5 +32,8 @@ export default defineConfig({
     }
   },
   base:"/mall_help/",
-  publicPath:'./'
+  publicPath:'./',
+  build:{
+    outDir:"docs"
+  }
 })
